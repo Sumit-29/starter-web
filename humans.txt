@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Sumit Bishnoi bishnoi680@gmail.com
 
 # THANKS
 

@@ -8,7 +8,7 @@ Sample website with plenty of files for demos
 
 ## Deployment
 
-Hi
+Hi, How are you.
 
 ## How to Contribute
 

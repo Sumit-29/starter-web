@@ -10,10 +10,10 @@ Sample website with plenty of files for demos
 
 Hi
 
-##How to Contribute
+## How to Contribute
 
 Please fork this repository and then issue Pull Requests for review.
 
-###Copyright
+### Copyright
 
 2020 Git.Training
